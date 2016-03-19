@@ -1,0 +1,139 @@
+CPS813/DG8010 Lab l
+
+Name: Group 5
+Ferreira, Thales 
+Law, Aaron 
+Taccone, Sonya 
+Velasquez-Zapata, Pablo
+
+Robot Name: Talos
+
+Lab Requirements
+
+“The Environment: 
+There exists a lethal environment consisting of a flat but irregularly shaped surface. The surface exists surrounded by an infinite void of certain destruction for anything that falls into it. The surface is devoid of obstacles except for the sheer precipices leading to the void. Additionally, the environment is governed by a single rule: Anything on the surface must be in significant motion at all times lest it be damaged or destroyed by a malevolent enforcer seeking weakness.
+
+Required: 
+Each group is required to collaborate to create an autonomous robot that can survive in the environment for not less than 2 minutes. The robot cannot employ any form of digital electronics or prefabricated controller boards. Using analog electronics is fine (parts and instructions available from the computer science office for a nominal fee). The robots other components are not to exceed $15 in value. The robot may have as many ''found" parts as necessary.
+
+Scoring: 
+The lab will be marked out of 10. Marks will be allocated as follows:
+
+1 mark: 8.5 in x 11 in printed sheet with the title "CPS813/DG8010 Lab l". The sheet will indicate the name and student numbers of each member of the group and the name of your robot. 
+1 mark: Submit a video no longer than 30 seconds sent to the course TA with file name, "CPS818DG8010Lab1Pl<robotname>.mov", where <robotname> is the name of your robot. The video will clearly show each member of your group and your robot. Each member of the group will state their name and someone will state the name of your robot. You must indicate at least 1 feature of the robot that you find interesting. All words must be intelligible.
+1 mark: Submit a video file named "cPS818DG8010Lab1P2<robotname> .rnov" no longer than 2 minutes showing the performance of your robot in the environment.
+7 marks: the robot will successfully exist for the requisite amount of time in the environment and not break the rule.”
+
+
+
+Breadboard/Circuitry:
+Two 400 pin breadboards were used as the “cranium” of our robot’s brain.  
+One breadboard created the left  part of the robot brain and the second breadboard created the right part of the brain.
+Each side of the brain was constructed on the breadboard with solid core wires that were  used to connect a transistor array, a relay, potentiometer, capacitor and contact switch.  Please refer to diagram below for more details.
+
+
+
+
+
+
+Battery Life:
+Our robot (Talos) is required to survive two minutes without stopping, which created a  power issue as our batteries failed in less than two minutes.
+Batteries needed to be in a casing and mounted to the chassis.  Considering this is important when creating the robot design. 
+Because we used two breadboards, our battery supply was split, therefore more battery power is required.  A single breadboard creating the full brain would use less battery power.
+
+
+Power  Requirements:
+Six AA batteries with a reserve pack in the event batteries need to be replaced quickly.
+Casing for the battery packs.
+Two way tape to adhere the housing to the chassis.
+
+
+Functional Specifications:
+It was important to consider the environment the robot would work in and factor that into the design.  
+The switches were especially important to consider.  They had to be work like a bug’s antennae or a cat’s whiskers.  They had to be far enough in front of the robot to ensure they were triggered if the robot were about to fall from the table, but they also had to have the ability to easily move back on the table and not get stuck.
+
+Movement:
+The brain is primitive, but knows its role well.  Forward and backward movement so as not to fall off the table.  
+Speed:
+Initially the speed of the robot was too fast to allow the switches to work.  
+Extra weight had to be added to slow the robot down.
+
+Switches:
+The switches were connected with scrap metal found on the street.
+The rubber ends of turkey basters were used to provide leverage and mobility allowing the switches to perform as desired for the exercise and environment.
+
+Testing:
+Testing was ongoing as the robot was built.  Initial testing was to ensure the circuitry for the switch and motors worked for each side of the brain.
+Next was mounting the breadboards to the chassis and ensuring the robot moved.
+Following this, the speed needed to be adjusted to slow down the robot so it could function in the environment.  Testing mounts and added weight was necessary.
+
+Tested in environment:
+The final stage of the testing was in the environment it was going to have to function.  
+Adjustments were needed with the weight and the functionality of the switches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robot Movement Flow Chart:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Materials used:
+Two 400 pin breadboards
+Yellow, red and black solid core wires 
+6 AA Battery pack.  Total voltage 8.4.
+Two 5 v motors 
+White canvas used for robot chassis with tank treads for wheels
+1 x ULN2001 Darling Transistor  Array
+2 x DPDT(Double Pull Double Throw)  Relay 2 x Diode 1N4001/1N4004
+2 x 10K Ohm Potentiometer 2 x 100uF Capacitor (> 12V) 2 x Contact Switch
+Wire cutter and stripper
+Turkey baster tops
+Small ice packs
+Tape
+Tupperware container
+Scrap metal
+Soldering equipment
+Multimeter 
+
+
+
+
+
+
+
+
+
+Group Dynamic and Problem Solving:
+The group worked well together.  A strong willingness to share knowledge and patience when problem solving is a high strength in the group.  Creative solutions were used to address issues that arose in the robot build and ensuring requirements and environment restrictions were addressed.
+The group is looking forward to the continuation of developing Talos.
+
+
+
+
+Left to right: Group 5 CPS813 Members Aaron Law, Thales Ferreira and Pablo Velasquez-Zapata working on Talos in the DME at Ryerson.  Photo taken by group member Sonya Taccone.
+
+
